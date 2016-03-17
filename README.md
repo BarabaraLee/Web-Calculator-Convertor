@@ -5,4 +5,4 @@ This repo includes two simple web application projects.
 
 2. Currency convertor.
 
-Note: check figures for functionalities of the web applications.
+Note: check the figures to learn the functionalities of the web applications.
